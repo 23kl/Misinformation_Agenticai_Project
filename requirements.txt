@@ -1,5 +1,6 @@
 streamlit
 groq
+openai
 requests
 python-dotenv
 duckduckgo-search
