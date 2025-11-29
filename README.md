@@ -1,8 +1,7 @@
 
 # 🚨 Misinformation Detection Agent
-
+DEPLOYED LINK:https://verificationagent.streamlit.app/
 ### **Real-Time, Multi-Agent AI System for Detecting & Verifying Misinformation Across 14+ Global Platforms**
-
 ## 🎯 **Core Value Proposition**
 
 An **Agentic AI system** that **proactively detects, verifies, and evaluates misinformation** across **14+ global news, tech, and social platforms** — **in real-time**, with credible, explainable results.
